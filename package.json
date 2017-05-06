@@ -1,0 +1,29 @@
+{
+  "name": "brealtime-solver",
+  "version": "0.1.0",
+  "description": "Solve brealtime (futoshiki-like) resume submission problem",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mickeyschwab/brealtime.git"
+  },
+  "keywords": [
+    "brealtime",
+    "puzzles",
+    "problems"
+  ],
+  "author": "Mickey Schwab",
+  "contributors": [
+    {
+      "name": "Mickey Schwab",
+      "email": "mickeyschwab@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickeyschwab/brealtime-solver/issues"
+  },
+  "homepage": "https://github.com/mickeyschwab/brealtime-solver"
+}
